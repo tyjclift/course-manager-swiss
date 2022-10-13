@@ -13,6 +13,7 @@ module.exports = {
     requireConfigFile: false,
   },
   rules: {
+    'no-unused-vars': 'warn',
     'comma-dangle': [
       'error',
       {
